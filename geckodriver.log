@@ -1,0 +1,95 @@
+1691743637284	geckodriver	INFO	Listening on 127.0.0.1:58230
+1691743640375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mohan\\AppData\\Local\\Temp\\rust_mozprofiler5FF68"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691743647192	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691743648326	Marionette	INFO	Listening on port 58241
+Read port: 58241
+WebDriver BiDi listening on ws://127.0.0.1:58231
+1691743649659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+DevTools listening on ws://127.0.0.1:58231/devtools/browser/179ef876-d0ef-4db9-9b55-ca6e951a4a35
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8-ZmOU9oT98dzwhVxdRhvR2EKDTIqAFN6aCn3enqCsE.js line 2 > eval line 6809 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8-ZmOU9oT98dzwhVxdRhvR2EKDTIqAFN6aCn3enqCsE.js line 2 > eval line 2850 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+1691743704379	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1691743707701	Marionette	INFO	Stopped listening on port 58241
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:115:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 111))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.sys.mjs", 370))
+1691743815363	geckodriver	INFO	Listening on 127.0.0.1:58526
+1691743818379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58527" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mohan\\AppData\\Local\\Temp\\rust_mozprofile4JiKiY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691743819303	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691743819466	Marionette	INFO	Listening on port 58534
+Read port: 58534
+WebDriver BiDi listening on ws://127.0.0.1:58527
+1691743820504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58527/devtools/browser/f4b2ec7b-d36d-4a78-b22d-f99ba121f406
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8-ZmOU9oT98dzwhVxdRhvR2EKDTIqAFN6aCn3enqCsE.js line 2 > eval line 130 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+1691743843181	Marionette	INFO	Stopped listening on port 58534
+Dynamically enable window occlusion 1
+1691752795193	geckodriver	INFO	Listening on 127.0.0.1:59803
+1691752798010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59804" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mohan\\AppData\\Local\\Temp\\rust_mozprofileiA3pTK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691752804676	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691752805497	Marionette	INFO	Listening on port 59811
+Read port: 59811
+WebDriver BiDi listening on ws://127.0.0.1:59804
+Read port: 59811
+1691752810902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+DevTools listening on ws://127.0.0.1:59804/devtools/browser/d8c826c8-c261-4d9d-a58d-63a5049aaad6
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8-ZmOU9oT98dzwhVxdRhvR2EKDTIqAFN6aCn3enqCsE.js line 2 > eval line 5895 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8-ZmOU9oT98dzwhVxdRhvR2EKDTIqAFN6aCn3enqCsE.js line 2 > eval line 5591 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1691752858594	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8-ZmOU9oT98dzwhVxdRhvR2EKDTIqAFN6aCn3enqCsE.js line 2 > eval line 2241 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8-ZmOU9oT98dzwhVxdRhvR2EKDTIqAFN6aCn3enqCsE.js line 2 > eval line 4180 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1691752866853	Marionette	INFO	Stopped listening on port 59811
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+1691752974515	geckodriver	INFO	Listening on 127.0.0.1:60118
+1691752977519	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60119" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mohan\\AppData\\Local\\Temp\\rust_mozprofileuqr1iw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691752978108	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691752978239	Marionette	INFO	Listening on port 60126
+WebDriver BiDi listening on ws://127.0.0.1:60119
+Read port: 60126
+1691752979112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60119/devtools/browser/d7c5e6ab-a337-436a-a34c-a9cf51e82fed
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8-ZmOU9oT98dzwhVxdRhvR2EKDTIqAFN6aCn3enqCsE.js line 2 > eval line 7077 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8-ZmOU9oT98dzwhVxdRhvR2EKDTIqAFN6aCn3enqCsE.js line 2 > eval line 2891 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+1691753019022	Marionette	INFO	Stopped listening on port 60126
+Dynamically enable window occlusion 1
+console.error: (new Error("IndexedDB: main/password-recipes getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
